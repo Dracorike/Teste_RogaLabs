@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teste_RogaLabs</string>
+    <string name="title_tool">Title</string>
+    <string name="body_tool">Body</string>
+    <string name="name_tool">Name</string>
+    <string name="email_tool">Email</string>
+    <string name="title_main">Postagens recentes</string>
+</resources>
